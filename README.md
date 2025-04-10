@@ -29,7 +29,7 @@ This tab helps builds resumes according to the job description the components ar
 
 **4. Job analytics **
 <img width="1296" alt="Screenshot 2025-03-25 at 9 58 08 AM" src="https://github.com/user-attachments/assets/7b9c7a08-c387-4d15-a541-1acb4e181b88" />
-Job analytics tab show the analysis of the various jobs available in 3 regions
+Job analytics tab show the analysis of the various jobs available in 3 regions.
 The region includes:
 **1. United States**
 **2. Canada **
@@ -55,7 +55,7 @@ The analytics shows the analysis of the skills salary ranges and role distributi
 🚀 Optimized for both development and production environments for smooth scalability.
 
 **🤖 AI Models Used:**
-🧠 Multi-models powered by Gemma 3 & Gemini 2.0 Flash-Lite via OpenRouter – Delivering cutting-edge AI-driven capabilities.
+🧠 Multi-models powered by Gemma 3 & Gemini 2.0 Flash-Lite via OpenRouter – Delivering cutting-edge AI-driven capabilities. 
 
 
 
