@@ -56,7 +56,7 @@ The analytics shows the analysis of the skills salary ranges and role distributi
 
 **🤖 AI Models Used:**
 🧠 Multi-models powered by Gemma 3 & Gemini 2.0 Flash-Lite via OpenRouter – Delivering cutting-edge AI-driven capabilities. 
-
+ 
 
 
 **🔥 Usage**
