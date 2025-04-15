@@ -71,7 +71,7 @@ Explore trending skills and salary distributions.
 Analyze role distributions in different regions.
 
 *🎯 Tailor Your Resume*
-Get AI-driven feedback to optimize your application.
+Get AI-driven feedback to optimize your application.  
 
 
 
